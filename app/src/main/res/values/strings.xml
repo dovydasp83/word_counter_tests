@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">word counter</string>
+    <string-array name="count_choices">
+        <item>Sentences</item>
+        <item>Words</item>
+        <item>Chars</item>
+        <item>Numbers</item>
+    </string-array>
+    <string name="input_hint">Enter text…</string>
+    <string name="result_text">%1$d %2$s</string>
+    <string name="count_button">Count</string>
+    <string name="enter_text">Please enter text</string>
+</resources>
